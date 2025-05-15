@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "this is pankaj"
-echo "Subscribe to my channel"
+echo "Subscribe to my channel click on a bell icon"
 
