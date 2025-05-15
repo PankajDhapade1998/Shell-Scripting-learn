@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "this is pankaj"
-echo "Subsucribe to my channel"
+echo "Subscribe to my channel"
